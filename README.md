@@ -3,11 +3,11 @@
 Bu proje, Python kullanarak web scraping işlemini göstermektedir. Amaç, bir kitap e-ticaret sitesinden veri çekmek ve bu bilgileri görüntülemektir.
 
 ## Kullanılan Kütüphaneler
-- requests
-- BeautifulSoup
-- pandas
-- requests
-- selenium
+- beautifulsoup4==4.12.3
+- pandas==2.2.2
+- regex==2024.7.24
+- requests==2.32.3
+- selenium==4.23.1
 
 ## Nasıl Çalıştırılır
 
