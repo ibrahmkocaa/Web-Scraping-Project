@@ -1,6 +1,6 @@
-# Web Scraping Projesi
+# Web Kazıma Projesi
 
-Bu proje, Python kullanarak web scraping işlemini göstermektedir. Amaç, bir kitap e-ticaret sitesinden veri çekmek ve bu bilgileri görüntülemektir.
+Bu proje, Python kullanarak web kazıma işlemini göstermektedir. Amaç, bir kitap e-ticaret sitesinden veri çekmek ve bu bilgileri görüntülemektir.
 
 ## Kullanılan Kütüphaneler
 - beautifulsoup4==4.12.3
@@ -39,5 +39,5 @@ Bu proje, Python kullanarak web scraping işlemini göstermektedir. Amaç, bir k
 
 ## Açıklama
 
-Bu proje, Selenium , BeautifulSoup ve requests kütüphanelerini kullanarak web scraping işlemlerini detaylandırmaktadır. Örnek olarak, bir kitap e-ticaret sitesinden kitap detayları çekilmekte ve bu bilgiler görüntülenmektedir.
+Bu proje, Selenium , BeautifulSoup ve requests kütüphanelerini kullanarak web kazıma işlemlerini detaylandırmaktadır. Örnek olarak, bir kitap e-ticaret sitesinden kitap detayları çekilmekte ve bu bilgiler görüntülenmektedir.
 ```
