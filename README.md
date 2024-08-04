@@ -13,7 +13,7 @@ Bu proje, Python kullanarak web scraping işlemini göstermektedir. Amaç, bir k
 
 1. Depoyu klonlayın:
    ```bash
-   git clone [<repo-url>](https://github.com/ibrahmkocaa/Web-Scraping-Projec)
+   git clone https://github.com/ibrahmkocaa/Web-Scraping-Project
    ```
 2. Gerekli kütüphaneleri yükleyin:
    ```bash
