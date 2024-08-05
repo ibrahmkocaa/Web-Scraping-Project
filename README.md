@@ -40,3 +40,7 @@ Bu proje, Python kullanarak web kazıma işlemini göstermektedir. Amaç, bir ki
 ## Açıklama
 
 Bu proje, Selenium , BeautifulSoup ve requests kütüphanelerini kullanarak web kazıma işlemlerini detaylandırmaktadır. Örnek olarak, bir kitap e-ticaret sitesinden kitap detayları çekilmekte ve bu bilgiler görüntülenmektedir.
+
+## Katkıda Bulunma
+
+Katkıda bulunmak isterseniz lütfen önce bir issue açarak ne tür bir değişiklik yapmak istediğinizi belirtin. Daha sonra bir pull request gönderebilirsiniz.
